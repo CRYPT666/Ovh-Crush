@@ -1,0 +1,5 @@
+colorama
+socket
+random
+sys
+time
